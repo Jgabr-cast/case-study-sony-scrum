@@ -2,6 +2,7 @@
 Case study of the application of the scrum framework at Sony
 
   1. INTRODUÇÃO
-  2. DISCUSSÃO DE CASO
-  3. CONCLUSÃO
-  REFERÊNCIAS
+      O Scrum é um framework
+  3. DISCUSSÃO DE CASO
+  4. CONCLUSÃO
+  5. REFERÊNCIAS

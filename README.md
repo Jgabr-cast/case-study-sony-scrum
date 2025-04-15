@@ -11,3 +11,5 @@ Nesta análise, iremos ver um exeplo da implementação do Scrum na Sony, uma mu
 # 2. DISCUSSÃO DE CASO
 # 3. CONCLUSÃO
 # 4. REFERÊNCIAS
+1- https://www.agile42.com/en/success-stories/success-story-sony
+2- https://www.forbes.com/councils/forbesbusinesscouncil/2022/09/19/how-to-make-scrum-work-for-startups/
